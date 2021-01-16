@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "private": true,
   "author": "Jens Neuber",
   "dependencies": {
     "@react-native-community/eslint-config": "^2.0.0",
