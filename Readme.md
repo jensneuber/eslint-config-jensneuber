@@ -1,11 +1,11 @@
 ## Usage
 ```sh
-yarn add eslint-config-react-native-wcandillon --dev
+yarn add -D eslint-config-jensneuber
 ```
 In .eslintrc:
 
 ```json
 { 
-  "extends": "react-native-wcandillon", 
+  "extends": "jensneuber", 
 } 
 ```
